@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Omar Santos",
+    "Age": 18,
+    "City": "New York",
+    "State": "NY"
+  },
+  {
+    "Name": "Donald Duck",
+    "Age": 29,
+    "City": "Raleigh",
+    "State": "NC"
+  },
+  {
+    "Name": "Mickey Mouse",
+    "Age": 22,
+    "City": "Boston",
+    "State": "MA"
+  },
+  {
+    "Name": "Clark Kent",
+    "Age": 35,
+    "City": "New York",
+    "State": "NY"
+  },
+  {
+    "Name": "Ironman",
+    "Age": 40,
+    "City": "San Jose",
+    "State": "CA"
+  }
+]
